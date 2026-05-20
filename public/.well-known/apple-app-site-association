@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "5C4DAU25T3.com.GreenEight.QueensGame"
+        ],
+        "components": [
+          {
+            "/": "/board/*"
+          }
+        ]
+      }
+    ]
+  }
+}
